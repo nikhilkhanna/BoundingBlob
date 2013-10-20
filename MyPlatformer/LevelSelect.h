@@ -1,0 +1,24 @@
+//
+//  LevelSelect.h
+//  MyPlatformer
+//
+//  Created by Kirti Khanna on 6/30/12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//
+#import "AdWhirlView.h"
+#import "AdWhirlDelegateProtocol.h"
+#import "RootViewController.h"
+#import "AppDelegate.h"
+#import <Foundation/Foundation.h>
+#import "cocos2d.h"
+@interface LevelSelect : CCLayer <AdWhirlDelegate>
+{
+    RootViewController *viewController;
+    AdWhirlView *adWhirlView;
+}
+-(id) init: (int) initlevelnum;
+-(int) levelNumber;
+-(void) goingBack;
+-(bool) back;
+@property(nonatomic, retain) AdWhirlView *adWhirlView;
+@end
