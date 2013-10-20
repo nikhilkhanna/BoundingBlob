@@ -6,5 +6,10 @@ build
 *~
 *~.nib
 *~.xib
+*.png
+*.caf
+*.mp3
+*.plist
+*.developerprofile
 .DS_Store
 xcuserdata/

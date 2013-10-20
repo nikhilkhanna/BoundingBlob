@@ -2,8 +2,8 @@
 //  Saw.m
 //  MyPlatformer
 //
-//  Created by Kirti Khanna on 7/8/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Nikhil Khanna on 7/8/12.
+//  Copyright (c) 2012 Tangled Fire. All rights reserved.
 //
 
 #import "Saw.h"

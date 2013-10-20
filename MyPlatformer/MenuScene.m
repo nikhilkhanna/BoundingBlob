@@ -2,8 +2,8 @@
 //  MenuScene.m
 //  MyPlatformer
 //
-//  Created by Kirti Khanna on 6/30/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Nikhil Khanna on 6/30/12.
+//  Copyright (c) 2012 Tangled Fire. All rights reserved.
 //
 
 #import "MenuScene.h"
